@@ -1,8 +1,11 @@
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cinorid&layout=compact)](https://github.com/cinorid)
 
+
 ## 𝗦𝘁𝗮𝘁𝘀
 ![Cinorid's github stats](https://github-readme-stats.vercel.app/api?username=cinorid&show_icons=true&theme=dracula)
+
+<a href="https://github.com/Cinorid?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=cinorid&column=8&margin-w=15&margin-h=15" alt="cinorid"></a> 
 
 <!--
 **Cinorid/Cinorid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
