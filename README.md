@@ -1,4 +1,7 @@
-### Hi there 👋
+<img align ="right" src="https://komarev.com/ghpvc/?username=cinorid&label=Profile%20views&color=0e75b6&style=flat" alt="cinorid">
+<h1 align="left">Hi there 👋</h1>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cinorid&layout=compact)](https://github.com/cinorid)
 
 
