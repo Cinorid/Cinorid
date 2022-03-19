@@ -1,15 +1,12 @@
 <img align ="right" src="https://komarev.com/ghpvc/?username=cinorid&label=Profile%20views&color=0e75b6&style=flat" alt="cinorid">
-<h1 align="left">Hi there 👋</h1>
+<!-- <h1 align="left">Hi there 👋</h1> -->
 
 ## Stats
+
+![Cinorid's github stats](https://github-readme-stats.vercel.app/api?username=cinorid&show_icons=true&count_private=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cinorid&layout=compact)](https://github.com/cinorid)
 
-![Cinorid's github stats](https://github-readme-stats.vercel.app/api?username=cinorid&show_icons=true&theme=dracula)
-
-<a href="https://github.com/Cinorid?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=cinorid&column=8&margin-w=15&margin-h=15" alt="cinorid"></a> 
-
 <!--
-**Cinorid/Cinorid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
