@@ -3,8 +3,9 @@
 
 ## Stats
 
-![Cinorid's github stats](https://github-readme-stats.vercel.app/api?username=cinorid&show_icons=true&count_private=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cinorid&layout=compact)](https://github.com/cinorid)
+<a href="http://www.github.com/cinorid"><img src="https://github-readme-stats.vercel.app/api?username=cinorid&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Cinorid's GitHub Stats" /></a>
+<a href="http://www.github.com/cinorid"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cinorid&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Cinorid's Top Langs" /></a>
+<a href="http://www.github.com/cinorid"><img src="https://activity-graph.herokuapp.com/graph?username=cinorid&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="Cinorid's GitHub Commits Graph" /></a>
 
 <!--
 
